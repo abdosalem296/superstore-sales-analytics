@@ -1,0 +1,8 @@
+## Requirements
+
+- MySQL Server (recommended: version 8.0 or later)
+- MySQL Workbench, DBeaver, or similar SQL client to run scripts
+- Power BI Desktop (for .pbix files; free download from Microsoft)
+- PDF viewer (for static dashboard PDF export)
+
+_No Python or third-party packages needed._
